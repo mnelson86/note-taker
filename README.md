@@ -8,10 +8,6 @@
   ## Table of Contents
   
   * [Installation](#installation)
-  
-  * [Usage](#usage)
-
-  https://img.shields.io/badge/undefined-mnelson86-blue
 
   * [Contributing](#contributing)
 
