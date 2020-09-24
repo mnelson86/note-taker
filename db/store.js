@@ -19,7 +19,7 @@ class Store {
   };
   getNotes(note){
     this.read().then({
-      const gotNotes= JSON.parse(note)
+      const gotNotes = JSON.parse(note)
       }
       return gotNotes;
             
